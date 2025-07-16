@@ -146,6 +146,25 @@ Machine Account Added:
 * <img width="356" height="84" alt="image" src="https://github.com/user-attachments/assets/825d203c-a53c-42f0-ae46-54b2091e08e2" />
 <img width="355" height="83" alt="image" src="https://github.com/user-attachments/assets/0ae5f5fa-93cc-48fd-a914-13f8e9cf6fa3" />
 
+* Next step is to 
+<img width="354" height="90" alt="image" src="https://github.com/user-attachments/assets/0b0b8c34-d168-479e-bb28-c6c9768a9b1f" />
+<img width="356" height="73" alt="image" src="https://github.com/user-attachments/assets/ecafa909-0817-44d1-ba51-32892a197bd3" />
+
+* I had to launch BloodHound, and re open winrm session and start over. I was getting an error.
+* But I was able to get a ticket.
+* <img width="698" height="595" alt="image" src="https://github.com/user-attachments/assets/b40ddd42-f090-494c-a713-b12f2c510574" />
+* I used ticketconverter.py from Impacket to convert the ticket to a .ccahce file.
+*  Copying the ticket to my machine and then converting it from KIRBI to CCNAME format and using PSEXEC
+* <img width="1127" height="290" alt="image" src="https://github.com/user-attachments/assets/150f297e-3cb6-4fd5-b943-5a899714cef4" />
+<img width="1129" height="344" alt="image" src="https://github.com/user-attachments/assets/0230a112-6252-4ff3-8ccf-23837c71511b" />
+* I the directory to \user\administrator\desktop and found root.txt file.
+* <img width="417" height="239" alt="image" src="https://github.com/user-attachments/assets/52c6c52d-1b16-4d4c-8b5f-354ba719bcf1" />
+
+
+
+
+
+
 
 
 
