@@ -179,6 +179,7 @@ TGT Ticket Generated with Rubeus:
 
 <img width="1129" height="344" alt="image" src="https://github.com/user-attachments/assets/0230a112-6252-4ff3-8ccf-23837c71511b" />
 
+* I was able to get remote shell to the machine with the highest level of priviledges.
 
 * I changed the directory to \user\administrator\desktop and found root.txt file.
 
