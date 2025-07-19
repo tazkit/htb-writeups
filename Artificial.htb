@@ -1,0 +1,9 @@
+## Hack The Box - Artificial 
+* Target IP Address: 10.10.11.174
+* Operating System: Linux
+
+## Enumeration
+* I started off with doing a nmap scan on the target IP address.
+* Command used: sudo nmap -sC -sV -vv -oA nmap/artificial 10.10.11.74
+
+  
